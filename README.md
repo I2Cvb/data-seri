@@ -27,8 +27,8 @@ exudates, intraretinal cystoid space formation and subretinal fluid.
 Work using this dataset (up to our knowledge)
 ---------------------------------------------
 
-G. Lemaitre, M. Rastgoo, J. Massich, S. Sankar, F. Meriaudeau, and D. Sidibe, "Classification of SD-OCT volumes with LBP: Application to DME detection", _Ophthalmic Medical Image Analysis Workshop (OMIA), Medical Image Computing and Computer Assisted Interventions (MICCAI) 2015._ Munich: Germany (October 2015) 
+G. Lemaitre, M. Rastgoo, J. Massich, S. Sankar, F. Meriaudeau, and D. Sidibe, "Classification of SD-OCT volumes with LBP: Application to DME detection", _Ophthalmic Medical Image Analysis Workshop (OMIA), Medical Image Computing and Computer Assisted Interventions (MICCAI) 2015._ Munich: Germany (October 2015) [Sources](https://github.com/I2Cvb/lemaitre-2015-oct/tree/master) [PDF](https://github.com/I2Cvb/oct-Report)
 
  S. Sankar , D. Sidibé , Y. Cheung , T. Y. Wong , E. Lamoureux , D. Milea , F. Meriaudeau, 
  "Classification of SD-OCT volumes for DME detection: an anomaly detection approach",
-_Proc. SPIE 9785, Medical Imaging 2016: Computer-Aided Diagnosis_ San Diego: USA (March 24, 2016)
+_Proc. SPIE 9785, Medical Imaging 2016: Computer-Aided Diagnosis_ San Diego: USA (March 24, 2016) [Source](https://github.com/I2Cvb/sankar-2016-feb/tree/master)
